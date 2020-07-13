@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+
+}
+
+.wrapper {
+    width: auto;
+    height: 100vw;
+    /* border: solid 2px grey ;
+    border-radius: 15px; */
+    background-color: #fbf2e9;
+    display: flex;
+}
+
+.trafficLights {
+    width: 250px;
+    height: 90px;
+    border: solid 2px lightgray ;
+    border-radius: 15px;
+    display: flex;
+    
+    margin: 10px;
+}
+
+.trafficLight{
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+    background-color: lightgray;
+    border-radius: 50%;
+}
+
+.button {
+    margin-top: 10px;
+    width: 60px;
+    height:90px;
+    border-radius: 15px;
+    border: solid 2px lightgray;
+    background-color: #ccc;
+}
+
+
+
