@@ -1,0 +1,12 @@
+.tiles{
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 0px solid grey;
+}
+
+.tiles .tile{
+    width: 18px;
+    border: 1px solid black;
+    height: 18px;
+}
